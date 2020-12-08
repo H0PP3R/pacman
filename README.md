@@ -2,7 +2,7 @@
 ### How to Run
 This pacman code runs on **Python2.7**
 
-Run the command below to play pacman using the MDPAgent <br />
+Run the command below within the `./code` repository to play pacman using the MDPAgent <br />
 ```python pacman.py -p MDPAgent -l mediumClassic```
 
 To run multiples games of pacman without the interface displayed <br />
